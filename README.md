@@ -13,7 +13,7 @@ This will download and install the dependencies listed in package.json.
 5) Start the server. Go to the server directory and do "python server.py".
 
 ### Project Requirement:
-https://github.com/prakhathi-m/IR-Tweet-Search/blob/master/Project_Requirements.pdf
+https://github.com/thanashr/IRTweet-Search/blob/master/Project_Requirements.pdf
 
 ### To View the live application, using
 http://3.134.84.37:8080/
